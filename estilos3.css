@@ -1,0 +1,22 @@
+h1#principal{
+    color: blue;
+}
+
+h2.parte1 {
+    color: aqua;
+}
+
+h2.parte2 {
+    color: blueviolet;
+}
+
+h2.incli {
+    font-style: italic;
+}
+
+span.especial {
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.2em;
+}
